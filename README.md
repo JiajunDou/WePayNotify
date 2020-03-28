@@ -1,0 +1,2 @@
+# WePayNotify
+golang无需绑定XML结构体验证微信支付通知签名
